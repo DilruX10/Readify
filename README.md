@@ -31,4 +31,3 @@ AI-enabled Intelligent Assistant to Improve Reading and Comprehension Skills in 
 
 ### System Architecture
 ![System Architecture](https://github.com/DilruX10/Readify/blob/main/Images/SysDia.png)
-
